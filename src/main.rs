@@ -15,7 +15,7 @@
 //!
 //! Note that you will need the required privilege to read all files and folders
 //! in the `input_root` directory, create directories and files in
-//! `output_root`` (or create it as well if needed), and enough disk space to
+//! `output_root` (or create it as well if needed), and enough disk space to
 //! duplicate the contents of `input_root` (roughly).
 #![doc(issue_tracker_base_url = "https://github.com/Lymkwi/logboop/issues/")]
 
